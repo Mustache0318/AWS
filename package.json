@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1637.0",
+    "yahoo-finance2": "^2.11.3"
+  },
+  "name": "lambda_function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
